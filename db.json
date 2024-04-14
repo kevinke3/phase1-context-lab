@@ -1,0 +1,37 @@
+{
+    "employees": [
+      {
+        "firstName": "John",
+        "familyName": "Doe",
+        "title": "Engineer",
+        "payPerHour": 25,
+        "timeInEvents": [],
+        "timeOutEvents": []
+      },
+      {
+        "firstName": "Jane",
+        "familyName": "Doe",
+        "title": "Manager",
+        "payPerHour": 30,
+        "timeInEvents": [],
+        "timeOutEvents": []
+      },
+      {
+        "firstName": "Alice",
+        "familyName": "Smith",
+        "title": "Developer",
+        "payPerHour": 28,
+        "timeInEvents": [],
+        "timeOutEvents": []
+      },
+      {
+        "firstName": "Bob",
+        "familyName": "Johnson",
+        "title": "Designer",
+        "payPerHour": 26,
+        "timeInEvents": [],
+        "timeOutEvents": []
+      }
+    ]
+  }
+  
